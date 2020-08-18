@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+### JetBrains template
+.idea/
